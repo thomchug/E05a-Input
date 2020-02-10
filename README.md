@@ -1,1 +1,2 @@
 # E05-Input
+Using a Vector2 object, the text of the game label child node was updated to give a string of the mouse position on our game screen in the upper left corner of the screen. We then used the input map in project settings to create key inputs to move our game child node Ship to the left, upwards, right and downwards on a key stroke of A, W, D and S respectively. The ship is moved by a position of 10 units for each direction.
